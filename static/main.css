@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url('images/images\ \(13\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+table, td, th {
+    border: 3px solid #aaa;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+    color: white;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+
+.form {
+    margin-top: 20px;
+    align-items: center;
+}
+
+#content {
+    width: 70%;
+}
+
+h1{
+    color: white;
+}
+
+h4{
+    color: blanchedalmond;
+}
